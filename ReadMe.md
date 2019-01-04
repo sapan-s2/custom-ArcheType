@@ -1,4 +1,4 @@
-Panera API Archtetype
+ API Archtetype
 
 This project is a maven Archetype to help developers start with a base SpringBoot Starter project
 with default Directory Structures and config setup
